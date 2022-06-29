@@ -1,5 +1,5 @@
 # Quiz 3: Multi-Table Relational SQL
-10 questions
+11 questions
 
 1. What is the primary added value of relational databases over flat files?
 
@@ -75,4 +75,9 @@
 - tablename/columnname
 - **tablename.columnname**
 
+11. What is the purpose of a primary key?
 
+- **To look up a particular row in a table very quickly**
+- To track the number of duplicate values in another column
+- To look up a row based on a string that comes from outside the program
+- To point to a particular row in another table
